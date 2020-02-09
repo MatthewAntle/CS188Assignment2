@@ -1,2 +1,2 @@
 # CS188Assignment2
-Assignment 2 Repository
+Readme file for assignment 2
